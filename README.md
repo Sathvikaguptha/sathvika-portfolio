@@ -7,7 +7,7 @@ A modern, responsive portfolio website showcasing my skills in AI/ML, programmin
 ## 👩‍💻 About Me
 
 I'm Yamsani Sathvika Guptha, currently pursuing a B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning at CMR Institute of Technology. With a CGPA of **8.79**, I have built a strong foundation in programming, algorithms, and system design.
-
+## visit the live link:https://sathvikaguptha.github.io/sathvika-portfolio/
 ## 🛠️ Technologies Used
 
 - **Frontend:** HTML5, CSS3, JavaScript
