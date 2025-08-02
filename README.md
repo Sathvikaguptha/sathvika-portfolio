@@ -1,49 +1,63 @@
-# Anusha Muddam - Portfolio
+# Yamsani Sathvika Guptha - Portfolio
 
-A sleek, neon-themed developer portfolio showcasing Full Stack Development and AI/ML skills.
+## 🚀 Personal Portfolio Website
 
-## 🚀 Live Demo
-Visit: [Your GitHub Pages URL will be here]
+A modern, responsive portfolio website showcasing my skills in AI/ML, programming, and software development.
 
-## ✨ Features
-- **Neon Theme** with animated effects
-- **Responsive Design** for all devices
-- **Interactive Elements** with smooth animations
-- **Project Showcase** with GitHub links
-- **Resume Download** functionality
-- **Contact Form** for potential employers
+## 👩‍💻 About Me
 
-## 🛠️ Tech Stack
-- HTML5, CSS3, JavaScript
-- Font Awesome Icons
-- Google Fonts (Orbitron, Inter)
+I'm Yamsani Sathvika Guptha, currently pursuing a B.Tech in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning at CMR Institute of Technology. With a CGPA of **8.79**, I have built a strong foundation in programming, algorithms, and system design.
 
-## 📁 Files
-- `index.html` - Main portfolio page
-- `styles.css` - Neon theme styling
-- `script.js` - Interactive functionality
-- `anusha-photo.jpg` - Profile photo
-- `anusha-resume.pdf` - Resume file
+## 🛠️ Technologies Used
 
-## 🚀 Deployment Options
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Design:** Modern UI with neon effects and animations
+- **Responsive:** Mobile-first design approach
+- **Features:** Dark theme, smooth animations, contact form
 
-### GitHub Pages (Recommended)
-1. Push to GitHub repository
-2. Go to Settings > Pages
-3. Select source branch (main/master)
-4. Your site will be live at: `https://username.github.io/repository-name`
+## 📁 Project Structure
 
-### Netlify (Alternative)
-1. Drag and drop the folder to netlify.com
-2. Get instant live URL
-3. Custom domain support
+```
+sathvika_portfolio/
+├── index.html          # Main portfolio page
+├── styles.css          # Styling and animations
+├── script.js           # Interactive functionality
+├── sathvika-photo.jpg  # Profile photo
+├── sathvika-resume.pdf # Resume
+├── README.md           # Project documentation
+└── deploy.ps1          # Deployment script
+```
 
-### Vercel (Alternative)
-1. Connect GitHub repository
-2. Automatic deployments
-3. Custom domain support
+## 🎯 Key Features
+
+- **Hero Section:** Animated typing effect and professional introduction
+- **About Section:** Personal background and achievements
+- **Skills Section:** Organized skill categories with interactive tags
+- **Projects Section:** Showcase of AI/ML and programming projects
+- **Certifications:** Display of technical certifications
+- **Experience:** Professional experience and internships
+- **Education:** Academic background in table format
+- **Contact Form:** Interactive contact form with validation
+
+## 🚀 Deployment
+
+This portfolio is deployed on GitHub Pages and can be accessed at:
+`https://sathvikaguptha15.github.io/sathvika-portfolio/`
 
 ## 📧 Contact
-- Email: anushamuddam09@gmail.com
-- GitHub: github.com/anushamuddam-09
-- LinkedIn: linkedin.com/in/anusha-muddam-aab02127b 
+
+- **Email:** sathvikaguptha15@gmail.com
+- **LinkedIn:** [Yamsani Sathvika Guptha](https://www.linkedin.com/in/yamsani-sathvikaguptha-1b9478295/)
+- **GitHub:** [sathvikaguptha15](https://github.com/sathvikaguptha15)
+
+## 🎨 Design Features
+
+- **Dark Theme:** Professional dark color scheme
+- **Neon Effects:** Modern glowing text and button effects
+- **Smooth Animations:** CSS animations and transitions
+- **Responsive Design:** Works perfectly on all devices
+- **Interactive Elements:** Hover effects and smooth scrolling
+
+---
+
+*Built with ❤️ using HTML, CSS, and JavaScript* 
